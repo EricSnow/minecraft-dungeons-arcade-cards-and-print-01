@@ -147,3 +147,4 @@ Information on all currently available Minecraft Dungeons Arcade Cards. Barcodes
 | 141         | Annika                    | d02g1000     | [![Card 141 Barcode](./barcode_images/141_Annika_Hero_d02g1000.svg)](./barcode_images/141_Annika_Hero_d02g1000.svg)                         |
 | 142         | The Archeologist          | d02h1000     | [![Card 142 Barcode](./barcode_images/142_The_Archeologist_Hero_d02h1000.svg)](./barcode_images/142_The_Archeologist_Hero_d02h1000.svg)     |
 | 143         | Fuego                     | d02i1000     | [![Card 143 Barcode](./barcode_images/143_Fuego_Hero_d02i1000.svg)](./barcode_images/143_Fuego_Hero_d02i1000.svg)                           |
+| 144         | Chicken Jockey            | e42j0000     | [![Card 144 Barcode](./barcode_images/144_Chicken_Jockey_e42j0000.svg)](./barcode_images/144_Chicken_Jockey_e42j0000.svg)                           |
