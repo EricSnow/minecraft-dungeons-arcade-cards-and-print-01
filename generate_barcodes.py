@@ -1,3 +1,18 @@
+"""
+generate_barcodes.py
+
+Precondition:
+    In Windows recommend installing Miniconda and using the Anaconda Prompt to run python and pip: https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+
+Python Dependencies:
+    pip install pandas
+
+Usage:
+    python generate_barcodes.py
+
+"""
+
+#!/usr/bin/env python3
 import pandas as pd
 
 CODE128B_CHAR_MAP = {
@@ -39,67 +54,73 @@ STOP_VAL = 106
 
 def generate_pure_code128b(data, filename="barcode.svg"):
     """
-    Generates a Code128 barcode using only the B subset and saves it as an SVG.
-
-    Args:
-        data (str): The string data to encode. Must contain only Code128B chars.
-        filename (str): The name of the output SVG file.
+    Generates a Code128 barcode (subset B) as an SVG sized exactly 60mm x 5mm.
+    The layout is: 5mm quiet zone | 50mm barcode pattern | 5mm quiet zone.
     """
     # Encode data to Code128B values
     char_values = []
     for char in data:
         if char not in CODE128B_CHAR_MAP:
             raise ValueError(f"Character '{char}' is not valid in Code128B.")
-        char_values.append(CODE128B_CHAR_MAP[char.lower() if char in '`abcdefghijklmnopqrstuvwxyz' else char])
+        char_values.append(CODE128B_CHAR_MAP[char])
 
+    # checksum
     checksum_sum = START_B_VAL
     for i, value in enumerate(char_values):
         checksum_sum += value * (i + 1)
-    
     checksum_val = checksum_sum % 103
+
+    # full pattern values and string
     all_values = [START_B_VAL] + char_values + [checksum_val]
     all_patterns = [CODE128_PATTERNS[val] for val in all_values]
     full_pattern_str = "".join(all_patterns) + CODE128_PATTERNS[STOP_VAL]
-    
-    # Generate the SVG
-    bar_unit_width = 3  # Width of the narrowest bar/space in pixels
-    height = 100        # Height of the barcode in pixels
-    
-    svg_parts = []
-    current_x = 0
-    is_bar = True  # The first digit always represents a bar
 
+    # Compute total pattern units (sum of digits)
+    total_units = sum(int(ch) for ch in full_pattern_str)
+
+    # Desired physical sizes (mm)
+    total_width_mm = 60.0
+    total_height_mm = 5.0
+    inner_width_mm = 50.0
+    quiet_zone_mm = 5.0
+
+    # module width in mm so that pattern fills exactly 50 mm
+    module_mm = inner_width_mm / total_units
+
+    # Build SVG: use viewBox "0 0 60 5" and width/height in mm so rendering maps user units to mm
+    svg_header = (
+        f'<svg xmlns="http://www.w3.org/2000/svg" '
+        f'width="{total_width_mm}mm" height="{total_height_mm}mm" viewBox="0 0 {total_width_mm} {total_height_mm}" version="1.1">'
+    )
+
+    # Background white
+    svg_bg = f'<rect x="0" y="0" width="{total_width_mm}" height="{total_height_mm}" fill="#FFFFFF"/>'
+
+    # Draw bars: each rect width is (digit * module_mm) user units (mm), group translated by quiet_zone_mm
+    svg_parts = []
+    current_x = 0.0
+    is_bar = True
     for width_char in full_pattern_str:
-        width = int(width_char) * bar_unit_width
+        w_mm = int(width_char) * module_mm
         if is_bar:
             svg_parts.append(
-                f'<rect x="{current_x}" y="0" width="{width}" height="{height}" fill="#000000" />'
+                f'<rect x="{current_x:.6f}" y="0" width="{w_mm:.6f}" height="{total_height_mm}" fill="#000000" />'
             )
-        current_x += width
+        current_x += w_mm
         is_bar = not is_bar
 
-    total_width = current_x
-    
-    # Add a quiet zone (padding) on the left and right
-    quiet_zone = 10 * bar_unit_width
-    final_width = total_width + (2 * quiet_zone)
+    # current_x should equal inner_width_mm (allow tiny float error)
+    # Wrap the bars in a group translated by quiet_zone_mm
+    bars_group = f'<g transform="translate({quiet_zone_mm}, 0)">' + "".join(svg_parts) + "</g>"
 
-    svg_content = f'''
-<svg xmlns="http://www.w3.org/2000/svg" width="{final_width}" height="{height}" version="1.1">
-    <rect x="0" y="0" width="{final_width}" height="{height}" fill="#FFFFFF"/>
-    <g transform="translate({quiet_zone}, 0)">
-        {''.join(svg_parts)}
-    </g>
-</svg>
-    '''.strip()
+    svg_content = "\n".join([svg_header, svg_bg, bars_group, "</svg>"])
 
     # Write to file
     try:
-        with open(filename, 'w') as f:
+        with open(filename, "w", encoding="utf-8") as f:
             f.write(svg_content)
     except IOError as e:
         print(f"Error writing to {filename}: {e}")
-
 
 card_df = pd.read_csv('card_info.csv')
 
