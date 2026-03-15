@@ -1,0 +1,1509 @@
+[
+  {
+    "cardNumber": 1,
+    "name": "Sun's Grace",
+    "barcodeData": "a0000000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "This mace, engraved with secret healing runes, grants powerful restorative powers.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 2,
+    "name": "Grave Bane",
+    "barcodeData": "a0010000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "A relic from ages of darkness; this glaive radiates potent magical energy to ward off the undead.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 3,
+    "name": "Stormlander",
+    "barcodeData": "a0020000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee weapon",
+      "rarity": "Unique",
+      "description": "The Stormlander, enchanted with the power of the raging storm, is a treasure of the [[MCD:Illager",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 4,
+    "name": "Heartstealer",
+    "barcodeData": "a0030000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "Gifted to one of the Arch-illager\u2019s most distinguished generals upon their conquest of the [[MCD:Squid Coast",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 5,
+    "name": "Nameless Blade",
+    "barcodeData": "a0040000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "This deadly blade's story was lost to the endless sands of time.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 6,
+    "name": "Firebrand",
+    "barcodeData": "a0050000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "unique",
+      "description": "Crafted in the blackest depths of the",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 7,
+    "name": "Soul Fists",
+    "barcodeData": "a0060000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee weapon",
+      "rarity": "Unique",
+      "description": "Soul Fists are gauntlets clad with great gemstones, each containing a powerful soul.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 8,
+    "name": "Frost Scythe",
+    "barcodeData": "a0070000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "The Frost Scythe is an indestructible blade that is freezing to the touch and never seems to melt.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 9,
+    "name": "Master's Katana",
+    "barcodeData": "a0080000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "The Master's Katana has existed throughout the ages, appearing to heroes at the right moment.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 10,
+    "name": "Cursed Axe",
+    "barcodeData": "a0090000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "This cursed, poisonous axe leaves their victims sick for years with just a single scratch.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 11,
+    "name": "Flail",
+    "barcodeData": "a00a0000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "This ancient weapon inflicts grave blunt damage to those who cannot evade the deadly metal ball.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 12,
+    "name": "Broadsword",
+    "barcodeData": "a00b0000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "Only those with the strength of a champion and the heart of a hero can carry this massive blade.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 13,
+    "name": "Nightmare's Bite",
+    "barcodeData": "a00c0000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "The twin blades of Nightmare's Bite drip with deadly venom, still potent after all these years.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 14,
+    "name": "Moon Daggers",
+    "barcodeData": "a00d0000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "unique",
+      "description": "These curved blades shine like the crescent moon on a dark night.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 15,
+    "name": "Fortune Spear",
+    "barcodeData": "a00e0000",
+    "category": "melee_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "A spear that is watched over by lucky souls, bringing luck to any who wield it.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 16,
+    "name": "Twin Bow",
+    "barcodeData": "a10f0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The Twin Bow is the champion of the hero who finds themselves outnumbered and alone.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 17,
+    "name": "Red Snake",
+    "barcodeData": "a10g0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The Red Snake radiates an explosive heat, making it a deadly fire risk in the dry, desert lands.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 18,
+    "name": "Sabrewing",
+    "barcodeData": "a10h0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "This bow, built for a long-lost champion, feels right in the hands of those who seek justice.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 19,
+    "name": "The Pink Scoundrel",
+    "barcodeData": "a10i0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "It would be a deadly mistake to underestimate the power of the Pink Scoundrel.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 20,
+    "name": "Corrupted Beacon",
+    "barcodeData": "a10j0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Artifact",
+      "rarity": "Common<br>Rare",
+      "description": "The Corrupted Beacon holds immense power within. It waits for the moment to unleash its wrath."
+    }
+  },
+  {
+    "cardNumber": 21,
+    "name": "Auto Crossbow",
+    "barcodeData": "a10k0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "unique",
+      "description": "The [[MCD:Arch-Illager",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 22,
+    "name": "Firebolt Thrower",
+    "barcodeData": "a10l0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The Firebolt Thrower launches chaos in a chain reaction of exploding arrows.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 23,
+    "name": "Guardian Bow",
+    "barcodeData": "a10m0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "Forged from fossilized coral, the Guardian Bow is a remnant from sunken civilizations of lost ages.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 24,
+    "name": "Lightning Harp Crossbow",
+    "barcodeData": "a10n0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "Adding electrical energy to this crossbow changed the firing sound dramatically.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 25,
+    "name": "The Green Menace",
+    "barcodeData": "a10o0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The arrows fired from the Green Menace always hit their intended target, even in the thickest fog.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 26,
+    "name": "Imploding Crossbow",
+    "barcodeData": "a10p0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The Imploding Crossbow has been magically fine-tuned to maximize the impact of the explosion.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 27,
+    "name": "Harp Crossbow",
+    "barcodeData": "a10q0000",
+    "category": "ranged_weapon",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "Half musical instrument and fully deadly weapon, the Harp Crossbow is the life of the party.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 28,
+    "name": "Souldancer Robe",
+    "barcodeData": "a20r0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "The Souldancer Robe comes alive in the light, as if the souls within are dancing for all eternity.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 29,
+    "name": "Battle Robe",
+    "barcodeData": "a20s0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Common Rare",
+      "description": "The Battle Robe is worn by the distinguished Illager [[MCD:Evoker"
+    }
+  },
+  {
+    "cardNumber": 30,
+    "name": "Wolf Armor",
+    "barcodeData": "a20t0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Common<br>Rare",
+      "description": "Many warriors wear the heads of wolves into battle to strike fear into the hearts of their enemies."
+    }
+  },
+  {
+    "cardNumber": 31,
+    "name": "Grim Armor",
+    "barcodeData": "a20u0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Common Rare",
+      "description": "Grim Armor invokes a sense of dread for the one who wears it and to those who face it in battle."
+    }
+  },
+  {
+    "cardNumber": 32,
+    "name": "Highland Armor",
+    "barcodeData": "a20v0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "A wise armorer made this armor with care.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 33,
+    "name": "Renegade Armor",
+    "barcodeData": "a20w0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "Renegade Armor made a fine payment for mercenaries hired to protect the villages from [[MCD:Illager",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 34,
+    "name": "Spider Armor",
+    "barcodeData": "a20x0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "Spider Armor, created by master thieves, is inspired by the agile talents of the Spider.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 35,
+    "name": "Full Metal Armor",
+    "barcodeData": "a20y0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "Full Metal Armor is destined for the great defenders of the Overworld.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 36,
+    "name": "Ember Robe",
+    "barcodeData": "a20z0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "The Ember Robe was created by [[MCD:Illager",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 37,
+    "name": "Ender Armor",
+    "barcodeData": "a20A0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "No one knows where this strange armor came from but it seems familiar to you.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 38,
+    "name": "Titan's Shroud",
+    "barcodeData": "a20B0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "The inspiring tales of the Titan's Shroud armor have passed through",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 39,
+    "name": "Frost Bite",
+    "barcodeData": "a20C0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "Frost Bite remembers the icy winds which once flowed beneath the wings of mighty Phantoms.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 40,
+    "name": "Hero's Armor",
+    "barcodeData": "a20D0000",
+    "category": "armor",
+    "series": "1",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "Only given to the highest caliber of heroes, the Hero's Armor is a precious gift from the Villagers.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 41,
+    "name": "Morris",
+    "barcodeData": "a30E0000",
+    "category": "hero",
+    "series": "1"
+  },
+  {
+    "cardNumber": 42,
+    "name": "Elaine",
+    "barcodeData": "a30F0000",
+    "category": "hero",
+    "series": "1"
+  },
+  {
+    "cardNumber": 43,
+    "name": "Valorie",
+    "barcodeData": "a30G0000",
+    "category": "hero",
+    "series": "1"
+  },
+  {
+    "cardNumber": 44,
+    "name": "Violet",
+    "barcodeData": "a30H0000",
+    "category": "hero",
+    "series": "1"
+  },
+  {
+    "cardNumber": 45,
+    "name": "Ivy",
+    "barcodeData": "a30I0000",
+    "category": "hero",
+    "series": "1"
+  },
+  {
+    "cardNumber": 46,
+    "name": "Meadow",
+    "barcodeData": "a40J0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 47,
+    "name": "Sven",
+    "barcodeData": "a40K0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 48,
+    "name": "Sam",
+    "barcodeData": "a40L0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 49,
+    "name": "Elan",
+    "barcodeData": "a40M0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 50,
+    "name": "Ebo",
+    "barcodeData": "a30N0000",
+    "category": "hero",
+    "series": "1"
+  },
+  {
+    "cardNumber": 51,
+    "name": "Frisk",
+    "barcodeData": "a30O0000",
+    "category": "hero",
+    "series": "1"
+  },
+  {
+    "cardNumber": 52,
+    "name": "Adriene",
+    "barcodeData": "a30P0000",
+    "category": "hero",
+    "series": "1"
+  },
+  {
+    "cardNumber": 53,
+    "name": "Wolf",
+    "barcodeData": "a40Q0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 54,
+    "name": "Polar Bear",
+    "barcodeData": "a40R0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 55,
+    "name": "Pig",
+    "barcodeData": "a40S0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 56,
+    "name": "Llama",
+    "barcodeData": "a40T0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 57,
+    "name": "Fox",
+    "barcodeData": "a40U0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 58,
+    "name": "Panda",
+    "barcodeData": "a40V0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 59,
+    "name": "Ocelot",
+    "barcodeData": "a40W0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 60,
+    "name": "Chicken",
+    "barcodeData": "a40X0000",
+    "category": "pet",
+    "series": "1"
+  },
+  {
+    "cardNumber": 61,
+    "name": "Encrusted Anchor",
+    "barcodeData": "b00Y0000",
+    "category": "melee_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "This Encrusted Anchor was lost at sea long ago and has become harsh and corrosive during its ages of neglect.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 62,
+    "name": "Battlestaff of Terror",
+    "barcodeData": "b00Z0000",
+    "category": "melee_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "This staff overwhelms its target in battle to explosive effect.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 63,
+    "name": "Hawkbrand",
+    "barcodeData": "b0100000",
+    "category": "melee_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "The Hawkbrand is the legendary sword of proven warriors.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 64,
+    "name": "Sponge Striker",
+    "barcodeData": "b0110000",
+    "category": "melee_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "This blade may look colorless and dead, but it soaks up energy in combat and expels it in a powerful burst.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 65,
+    "name": "The Last Laugh",
+    "barcodeData": "b0120000",
+    "category": "melee_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "Strange, distorted laughter seems to whisper from these menacing looking sickles.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 66,
+    "name": "Vine Whip",
+    "barcodeData": "b0130000",
+    "category": "melee_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "A sturdy whip made from thick, thorn-laden vines capable of poisoning anything it touches. Be careful not to scratch yourself!",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 67,
+    "name": "Whirlwind",
+    "barcodeData": "b0140000",
+    "category": "melee_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "Whirlwind, forged during an epic windstorm, is a double-bladed axe that levitates slightly.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 68,
+    "name": "Whispering Spear",
+    "barcodeData": "b0150000",
+    "category": "melee_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "Legend says that this cursed spear is plagued by a soul that controls the mind of any who wield it.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 69,
+    "name": "Bubble Burster",
+    "barcodeData": "b1160000",
+    "category": "ranged_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The Bubble Burster creates a chain effect of bubble trouble for your enemies.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 70,
+    "name": "Nautical Crossbow",
+    "barcodeData": "b1170000",
+    "category": "ranged_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "Why harpoon one enemy when you can harpoon many!",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 71,
+    "name": "Web Bow",
+    "barcodeData": "b1180000",
+    "category": "ranged_weapon",
+    "series": "2"
+  },
+  {
+    "cardNumber": 72,
+    "name": "Bonebow",
+    "barcodeData": "b1190000",
+    "category": "ranged_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The Bonebow is the pride of [[MCD:Pumpkin Pastures",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 73,
+    "name": "Purple Storm",
+    "barcodeData": "b11a0000",
+    "category": "ranged_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "Named the Purple Storm after its lovely hue, this legendary bow packs a powerful punch.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 74,
+    "name": "Soul Hunter Crossbow",
+    "barcodeData": "b11b0000",
+    "category": "ranged_weapon",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "This crossbow, crafted in a forge rich with souls, thrives when an abundance of souls are nearby.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 75,
+    "name": "Spellbound Crossbows",
+    "barcodeData": "b21c0000",
+    "category": "armor",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "Enchanted enemies are especially vulnerable to the magic of these crossbows.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 76,
+    "name": "Eye of the Guardian",
+    "barcodeData": "b21d0000",
+    "category": "armor",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Artifact",
+      "rarity": "Common<br>Rare",
+      "description": "The Eye of the Guardian holds a power that awakens in the hands of a worthy hero."
+    }
+  },
+  {
+    "cardNumber": 77,
+    "name": "Squid Armor",
+    "barcodeData": "b21e0000",
+    "category": "armor",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Common<br>Rare",
+      "description": "It was easy to make this jet-black armor look cool. The hard part was securing the ink sacs."
+    }
+  },
+  {
+    "cardNumber": 78,
+    "name": "Glow Squid Armor",
+    "barcodeData": "b21f0000",
+    "category": "armor",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "Those who hunt elusive glow squids wear this armor to blend in with their beautiful prey.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 79,
+    "name": "Nimble Turtle Armor",
+    "barcodeData": "b21g0000",
+    "category": "armor",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "This armor is made from the dense (but surprisingly light) shells of turtles who lived at crushing depths.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 80,
+    "name": "Archer's Armor",
+    "barcodeData": "b21h0000",
+    "category": "armor",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "Archer's Armor, favored by humble warriors, is cheap to make and still stops a blade.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 81,
+    "name": "Ghost Kingler",
+    "barcodeData": "b21i0000",
+    "category": "armor",
+    "series": "2"
+  },
+  {
+    "cardNumber": 82,
+    "name": "Phantom Armor",
+    "barcodeData": "b21j0000",
+    "category": "armor",
+    "series": "2",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Common<br>Rare",
+      "description": "This armor, crafted from the bones of [[MCD:Phantom"
+    }
+  },
+  {
+    "cardNumber": 83,
+    "name": "Stalwart Armor",
+    "barcodeData": "b31m0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 84,
+    "name": "Fox Armor",
+    "barcodeData": "b31m0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 85,
+    "name": "The Archeologist",
+    "barcodeData": "b31m0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 86,
+    "name": "Baako",
+    "barcodeData": "b31n0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 87,
+    "name": "Dani",
+    "barcodeData": "b31o0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 88,
+    "name": "Darian",
+    "barcodeData": "b31p0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 89,
+    "name": "Fuego",
+    "barcodeData": "b31q0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 90,
+    "name": "The Kelptomaniac",
+    "barcodeData": "b31r0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 91,
+    "name": "The Monumental",
+    "barcodeData": "b31s0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 92,
+    "name": "Wargen",
+    "barcodeData": "b31t0000",
+    "category": "hero",
+    "series": "2"
+  },
+  {
+    "cardNumber": 93,
+    "name": "Sheep",
+    "barcodeData": "b41u0000",
+    "category": "pet",
+    "series": "2"
+  },
+  {
+    "cardNumber": 94,
+    "name": "Rabbit",
+    "barcodeData": "b41v0000",
+    "category": "pet",
+    "series": "2"
+  },
+  {
+    "cardNumber": 95,
+    "name": "Goat",
+    "barcodeData": "b41w0000",
+    "category": "pet",
+    "series": "2"
+  },
+  {
+    "cardNumber": 96,
+    "name": "Bee",
+    "barcodeData": "b41x0000",
+    "category": "pet",
+    "series": "2"
+  },
+  {
+    "cardNumber": 97,
+    "name": "Baby Turtle",
+    "barcodeData": "b41y0000",
+    "category": "pet",
+    "series": "2"
+  },
+  {
+    "cardNumber": 98,
+    "name": "Iron Golem",
+    "barcodeData": "b41z0000",
+    "category": "pet",
+    "series": "2"
+  },
+  {
+    "cardNumber": 99,
+    "name": "The Kelptomaniac (Hero)",
+    "barcodeData": "c01A1000",
+    "category": "melee_weapon",
+    "series": "3"
+  },
+  {
+    "cardNumber": 100,
+    "name": "Explorer (Hero)",
+    "barcodeData": "c01B1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "armor",
+      "rarity": "Common",
+      "description": "For every one hundred blocks explored on the map, you regain a small amount of health."
+    }
+  },
+  {
+    "cardNumber": 101,
+    "name": "Valorie (Hero)",
+    "barcodeData": "c01C1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Skin"
+    }
+  },
+  {
+    "cardNumber": 102,
+    "name": "Strider Warrior (Hero)",
+    "barcodeData": "c01D1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 103,
+    "name": "Darian (Hero)",
+    "barcodeData": "c01E1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Skin"
+    }
+  },
+  {
+    "cardNumber": 104,
+    "name": "Loge (Hero)",
+    "barcodeData": "c01F1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 105,
+    "name": "Skelly (Hero)",
+    "barcodeData": "c01G1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 106,
+    "name": "Wargen (Hero)",
+    "barcodeData": "c01H1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Skin"
+    }
+  },
+  {
+    "cardNumber": 107,
+    "name": "Annika (Hero)",
+    "barcodeData": "c01I1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 108,
+    "name": "Dani (Hero)",
+    "barcodeData": "c01J1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Skin"
+    }
+  },
+  {
+    "cardNumber": 109,
+    "name": "Frosty (Hero)",
+    "barcodeData": "c01K1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 110,
+    "name": "Sven (Hero)",
+    "barcodeData": "c01L1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Skin"
+    }
+  },
+  {
+    "cardNumber": 111,
+    "name": "Nuru (Hero)",
+    "barcodeData": "c01M1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 112,
+    "name": "Ivy (Hero)",
+    "barcodeData": "c01N1000",
+    "category": "melee_weapon",
+    "series": "3"
+  },
+  {
+    "cardNumber": 113,
+    "name": "Corrupted Defender (Hero)",
+    "barcodeData": "c01O1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 114,
+    "name": "Void Voyager (Hero)",
+    "barcodeData": "c01P1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 115,
+    "name": "Qamar (Hero)",
+    "barcodeData": "c01Q1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 116,
+    "name": "Sam (Hero)",
+    "barcodeData": "c01R1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Skin"
+    }
+  },
+  {
+    "cardNumber": 117,
+    "name": "The Monumental (Hero)",
+    "barcodeData": "c01S1000",
+    "category": "melee_weapon",
+    "series": "3"
+  },
+  {
+    "cardNumber": 118,
+    "name": "Eshe (Hero)",
+    "barcodeData": "c01T1000",
+    "category": "melee_weapon",
+    "series": "3",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 119,
+    "name": "Eternal Knife",
+    "barcodeData": "d01U0000",
+    "category": "melee_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "unique",
+      "description": "A disturbing aura surrounds this knife, as if it has existed for all time and will outlive us all.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 120,
+    "name": "Bee Stinger",
+    "barcodeData": "d01V0000",
+    "category": "melee_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "The Bee Stinger, a swift blade inspired by a bee's barb, can draw friendly bees into the fray to fight alongside you.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 121,
+    "name": "Highland Axe",
+    "barcodeData": "d01W0000",
+    "category": "melee_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "Expertly crafted and a polished weapon of war, the Highland Axe also makes a daring backscratcher.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 122,
+    "name": "Diamond Pickaxe",
+    "barcodeData": "d01X0000",
+    "category": "melee_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Melee Weapon",
+      "rarity": "Unique",
+      "description": "Diamond is one of the most durable materials, making it an excellent choice for a pickaxe.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 123,
+    "name": "Sugar Rush",
+    "barcodeData": "d11Y0000",
+    "category": "ranged_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "This candy-colored bow has a surprising bitter bite.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 124,
+    "name": "Slayer Crossbow",
+    "barcodeData": "d11Z0000",
+    "category": "ranged_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The Slayer Crossbow is the treasured heirloom of many legendary hunters.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 125,
+    "name": "Elite Power Bow",
+    "barcodeData": "d1200000",
+    "category": "ranged_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The secret of the Elite Power Bow's construction has been lost without a trace.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 126,
+    "name": "Phantom Bow",
+    "barcodeData": "d1210000",
+    "category": "ranged_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Ranged Weapon",
+      "rarity": "Unique",
+      "description": "The arrows that take flight from the Phantom Bow swoop down on your enemies like the bow\u2019s [[MCD:Phantom",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 127,
+    "name": "Hungry Horror",
+    "barcodeData": "d2220000",
+    "category": "armor",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "When you wear this cloak, the sounds of screams fill the air. But are the screams yours, or your enemies'?",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 128,
+    "name": "Wither Armor",
+    "barcodeData": "d2230000",
+    "category": "armor",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "Wither Armor, crafted with the parts of slain enemies, was made to terrify the wearer's enemies.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 129,
+    "name": "Black Wolf Armor",
+    "barcodeData": "d2240000",
+    "category": "armor",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Unique",
+      "description": "The wolf who strikes from the shadows lives to tell the tale.",
+      "isUnique": true
+    }
+  },
+  {
+    "cardNumber": 130,
+    "name": "Evocation Robe",
+    "barcodeData": "d2250000",
+    "category": "armor",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Armor",
+      "rarity": "Common/Rare",
+      "description": "Potent magical runes are weaved into the fabric of these robes, their origins and powers are shrouded in mystery."
+    }
+  },
+  {
+    "cardNumber": 131,
+    "name": "Loge",
+    "barcodeData": "d3260000",
+    "category": "hero",
+    "series": "4"
+  },
+  {
+    "cardNumber": 132,
+    "name": "Annika",
+    "barcodeData": "d3270000",
+    "category": "hero",
+    "series": "4"
+  },
+  {
+    "cardNumber": 133,
+    "name": "Igor",
+    "barcodeData": "d3280000",
+    "category": "hero",
+    "series": "4"
+  },
+  {
+    "cardNumber": 134,
+    "name": "Tim",
+    "barcodeData": "d3290000",
+    "category": "hero",
+    "series": "4"
+  },
+  {
+    "cardNumber": 135,
+    "name": "Blue Sheep",
+    "barcodeData": "d42a0000",
+    "category": "pet",
+    "series": "4"
+  },
+  {
+    "cardNumber": 136,
+    "name": "Cow",
+    "barcodeData": "d42b0000",
+    "category": "pet",
+    "series": "4"
+  },
+  {
+    "cardNumber": 137,
+    "name": "Cat",
+    "barcodeData": "d42c0000",
+    "category": "pet",
+    "series": "4"
+  },
+  {
+    "cardNumber": 138,
+    "name": "Llama (Hero)",
+    "barcodeData": "d02d1000",
+    "category": "melee_weapon",
+    "series": "4",
+    "consoleStats": {
+      "damage": "70",
+      "weaponType": "dungeons",
+      "description": "Death"
+    }
+  },
+  {
+    "cardNumber": 139,
+    "name": "Mayeso (Hero)",
+    "barcodeData": "d02e1000",
+    "category": "melee_weapon",
+    "series": "4"
+  },
+  {
+    "cardNumber": 140,
+    "name": "Pake (Hero)",
+    "barcodeData": "d02f1000",
+    "category": "melee_weapon",
+    "series": "4"
+  },
+  {
+    "cardNumber": 141,
+    "name": "Annika (Hero)",
+    "barcodeData": "d02g1000",
+    "category": "melee_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Hero",
+      "rarity": "N/A"
+    }
+  },
+  {
+    "cardNumber": 142,
+    "name": "The Archeologist (Hero)",
+    "barcodeData": "d02h1000",
+    "category": "melee_weapon",
+    "series": "4"
+  },
+  {
+    "cardNumber": 143,
+    "name": "Fuego (Hero)",
+    "barcodeData": "d02i1000",
+    "category": "melee_weapon",
+    "series": "4",
+    "consoleStats": {
+      "weaponType": "Skin"
+    }
+  },
+  {
+    "cardNumber": 144,
+    "name": "Chicken Jockey",
+    "barcodeData": "e42j0000",
+    "category": "pet",
+    "series": "unknown"
+  }
+]
