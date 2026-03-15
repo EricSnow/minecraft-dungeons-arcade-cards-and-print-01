@@ -10,7 +10,13 @@
       "rarity": "Unique",
       "description": "This mace, engraved with secret healing runes, grants powerful restorative powers.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "wide",
+      "speedClass": "slow",
+      "notes": "Healing mace with wide swing. Heals allies in area \u2014 top tier for arcade."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 2,
@@ -23,7 +29,13 @@
       "rarity": "Unique",
       "description": "A relic from ages of darkness; this glaive radiates potent magical energy to ward off the undead.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "medium",
+      "speedClass": "medium",
+      "notes": "Glaive with good reach and undead bonus."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 3,
@@ -36,7 +48,13 @@
       "rarity": "Unique",
       "description": "The Stormlander, enchanted with the power of the raging storm, is a treasure of the [[MCD:Illager",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "wide",
+      "speedClass": "slow",
+      "notes": "Hammer with lightning AoE. Great crowd control."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 4,
@@ -49,7 +67,13 @@
       "rarity": "Unique",
       "description": "Gifted to one of the Arch-illager\u2019s most distinguished generals upon their conquest of the [[MCD:Squid Coast",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "medium",
+      "speedClass": "medium",
+      "notes": "Claymore that steals health on hit."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 5,
@@ -62,7 +86,13 @@
       "rarity": "Unique",
       "description": "This deadly blade's story was lost to the endless sands of time.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "fast",
+      "notes": "Fast sword that weakens enemies."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 6,
@@ -75,7 +105,13 @@
       "rarity": "unique",
       "description": "Crafted in the blackest depths of the",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "fast",
+      "notes": "Burns enemies on hit. Good sustained damage."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 7,
@@ -88,7 +124,13 @@
       "rarity": "Unique",
       "description": "Soul Fists are gauntlets clad with great gemstones, each containing a powerful soul.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "very_fast",
+      "notes": "Gauntlets \u2014 extremely fast, small AoE. Soul gathering."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 8,
@@ -101,7 +143,13 @@
       "rarity": "Unique",
       "description": "The Frost Scythe is an indestructible blade that is freezing to the touch and never seems to melt.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "medium",
+      "speedClass": "medium",
+      "notes": "Slows enemies. Good crowd control utility."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 9,
@@ -114,7 +162,13 @@
       "rarity": "Unique",
       "description": "The Master's Katana has existed throughout the ages, appearing to heroes at the right moment.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "fast",
+      "notes": "Fast sword with high combo potential."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 10,
@@ -127,7 +181,13 @@
       "rarity": "Unique",
       "description": "This cursed, poisonous axe leaves their victims sick for years with just a single scratch.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "very_wide",
+      "speedClass": "slow",
+      "notes": "Double axe with huge spin attack AoE. One of the best arcade weapons."
+    },
+    "powerTier": "S"
   },
   {
     "cardNumber": 11,
@@ -140,7 +200,13 @@
       "rarity": "Unique",
       "description": "This ancient weapon inflicts grave blunt damage to those who cannot evade the deadly metal ball.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "wide",
+      "speedClass": "slow",
+      "notes": "Extended reach with wide arc."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 12,
@@ -153,7 +219,13 @@
       "rarity": "Unique",
       "description": "Only those with the strength of a champion and the heart of a hero can carry this massive blade.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "medium",
+      "speedClass": "medium",
+      "notes": "Balanced sword with decent reach."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 13,
@@ -166,7 +238,13 @@
       "rarity": "Unique",
       "description": "The twin blades of Nightmare's Bite drip with deadly venom, still potent after all these years.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "very_fast",
+      "notes": "Dual sickles that spawn poison clouds."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 14,
@@ -179,7 +257,13 @@
       "rarity": "unique",
       "description": "These curved blades shine like the crescent moon on a dark night.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "very_fast",
+      "notes": "Thrown daggers with range. Very fast."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 15,
@@ -192,7 +276,13 @@
       "rarity": "Unique",
       "description": "A spear that is watched over by lucky souls, bringing luck to any who wield it.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "medium",
+      "speedClass": "fast",
+      "notes": "Spear with good reach. Chance for extra consumables."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 16,
@@ -205,7 +295,12 @@
       "rarity": "Unique",
       "description": "The Twin Bow is the champion of the hero who finds themselves outnumbered and alone.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "double",
+      "notes": "Fires two arrows at once. Double damage potential."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 17,
@@ -218,7 +313,12 @@
       "rarity": "Unique",
       "description": "The Red Snake radiates an explosive heat, making it a deadly fire risk in the dry, desert lands.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "spread",
+      "notes": "Arrows follow terrain. Good for hitting around obstacles."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 18,
@@ -231,7 +331,12 @@
       "rarity": "Unique",
       "description": "This bow, built for a long-lost champion, feels right in the hands of those who seek justice.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_strong",
+      "notes": "Powerful single shots with knockback."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 19,
@@ -244,7 +349,12 @@
       "rarity": "Unique",
       "description": "It would be a deadly mistake to underestimate the power of the Pink Scoundrel.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_strong",
+      "notes": "Strong single shots. Chance to steal emeralds."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 20,
@@ -256,7 +366,12 @@
       "weaponType": "Artifact",
       "rarity": "Common<br>Rare",
       "description": "The Corrupted Beacon holds immense power within. It waits for the moment to unleash its wrath."
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "beam",
+      "notes": "Continuous beam artifact. Massive damage but drains souls."
+    },
+    "powerTier": "S"
   },
   {
     "cardNumber": 21,
@@ -269,7 +384,12 @@
       "rarity": "unique",
       "description": "The [[MCD:Arch-Illager",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "rapid",
+      "notes": "Very fast firing rate. Great sustained damage."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 22,
@@ -282,7 +402,12 @@
       "rarity": "Unique",
       "description": "The Firebolt Thrower launches chaos in a chain reaction of exploding arrows.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "rapid_fire",
+      "notes": "Rapid fire crossbow with fire bolts."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 23,
@@ -295,7 +420,12 @@
       "rarity": "Unique",
       "description": "Forged from fossilized coral, the Guardian Bow is a remnant from sunken civilizations of lost ages.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_strong",
+      "notes": "Strong shots with extra damage to guardians."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 24,
@@ -308,7 +438,12 @@
       "rarity": "Unique",
       "description": "Adding electrical energy to this crossbow changed the firing sound dramatically.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "multi_spread",
+      "notes": "Fires multiple lightning bolts in a spread. Top tier crowd control."
+    },
+    "powerTier": "S"
   },
   {
     "cardNumber": 25,
@@ -321,7 +456,12 @@
       "rarity": "Unique",
       "description": "The arrows fired from the Green Menace always hit their intended target, even in the thickest fog.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_poison",
+      "notes": "Arrows poison enemies. Good sustained damage."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 26,
@@ -334,7 +474,12 @@
       "rarity": "Unique",
       "description": "The Imploding Crossbow has been magically fine-tuned to maximize the impact of the explosion.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_pull",
+      "notes": "Pulls enemies together on impact. Great combo setup."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 27,
@@ -347,7 +492,12 @@
       "rarity": "Unique",
       "description": "Half musical instrument and fully deadly weapon, the Harp Crossbow is the life of the party.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "multi_spread",
+      "notes": "Fires multiple arrows in a spread. Excellent crowd weapon."
+    },
+    "powerTier": "S"
   },
   {
     "cardNumber": 28,
@@ -360,7 +510,12 @@
       "rarity": "Unique",
       "description": "The Souldancer Robe comes alive in the light, as if the souls within are dancing for all eternity.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "light",
+      "notes": "Light robe with soul speed boost. Less protection but faster."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 29,
@@ -372,7 +527,12 @@
       "weaponType": "Armor",
       "rarity": "Common Rare",
       "description": "The Battle Robe is worn by the distinguished Illager [[MCD:Evoker"
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "light",
+      "notes": "Light robe with melee damage boost."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 30,
@@ -384,7 +544,12 @@
       "weaponType": "Armor",
       "rarity": "Common<br>Rare",
       "description": "Many warriors wear the heads of wolves into battle to strike fear into the hearts of their enemies."
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "medium",
+      "notes": "Medium armor with wolf ally health boost."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 31,
@@ -396,7 +561,12 @@
       "weaponType": "Armor",
       "rarity": "Common Rare",
       "description": "Grim Armor invokes a sense of dread for the one who wears it and to those who face it in battle."
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "heavy",
+      "notes": "Heavy armor. Good all-around protection."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 32,
@@ -409,7 +579,12 @@
       "rarity": "Unique",
       "description": "A wise armorer made this armor with care.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "heavy",
+      "notes": "Heavy armor with damage reduction."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 33,
@@ -422,7 +597,12 @@
       "rarity": "Unique",
       "description": "Renegade Armor made a fine payment for mercenaries hired to protect the villages from [[MCD:Illager",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "heavy",
+      "notes": "Heavy armor with weapon damage boost."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 34,
@@ -435,7 +615,12 @@
       "rarity": "Unique",
       "description": "Spider Armor, created by master thieves, is inspired by the agile talents of the Spider.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "medium",
+      "notes": "Medium armor with life steal."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 35,
@@ -448,7 +633,12 @@
       "rarity": "Unique",
       "description": "Full Metal Armor is destined for the great defenders of the Overworld.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "very_heavy",
+      "notes": "Maximum protection. Very tanky."
+    },
+    "powerTier": "S"
   },
   {
     "cardNumber": 36,
@@ -461,7 +651,12 @@
       "rarity": "Unique",
       "description": "The Ember Robe was created by [[MCD:Illager",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "light",
+      "notes": "Light robe that burns nearby enemies."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 37,
@@ -474,7 +669,12 @@
       "rarity": "Unique",
       "description": "No one knows where this strange armor came from but it seems familiar to you.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "heavy",
+      "notes": "Heavy armor with teleportation dodge."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 38,
@@ -487,7 +687,12 @@
       "rarity": "Unique",
       "description": "The inspiring tales of the Titan's Shroud armor have passed through",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "heavy",
+      "notes": "Heavy armor with life steal."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 39,
@@ -500,7 +705,12 @@
       "rarity": "Unique",
       "description": "Frost Bite remembers the icy winds which once flowed beneath the wings of mighty Phantoms.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "medium",
+      "notes": "Freezes nearby enemies. Good defensive utility."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 40,
@@ -513,7 +723,12 @@
       "rarity": "Unique",
       "description": "Only given to the highest caliber of heroes, the Hero's Armor is a precious gift from the Villagers.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "heavy",
+      "notes": "Strong protection with potion boost."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 41,
@@ -666,7 +881,13 @@
       "rarity": "Unique",
       "description": "This Encrusted Anchor was lost at sea long ago and has become harsh and corrosive during its ages of neglect.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "very_wide",
+      "speedClass": "very_slow",
+      "notes": "Massive anchor with huge AoE but very slow. Devastating per hit."
+    },
+    "powerTier": "S"
   },
   {
     "cardNumber": 62,
@@ -679,7 +900,13 @@
       "rarity": "Unique",
       "description": "This staff overwhelms its target in battle to explosive effect.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "medium",
+      "speedClass": "fast",
+      "notes": "Fast staff with combo attacks."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 63,
@@ -692,7 +919,13 @@
       "rarity": "Unique",
       "description": "The Hawkbrand is the legendary sword of proven warriors.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "fast",
+      "notes": "Fast sword with critical hit bonus."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 64,
@@ -705,7 +938,13 @@
       "rarity": "Unique",
       "description": "This blade may look colorless and dead, but it soaks up energy in combat and expels it in a powerful burst.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "medium",
+      "speedClass": "medium",
+      "notes": "Absorbs damage and releases it."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 65,
@@ -718,7 +957,13 @@
       "rarity": "Unique",
       "description": "Strange, distorted laughter seems to whisper from these menacing looking sickles.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "very_fast",
+      "notes": "Dual sickles \u2014 very fast but small AoE. Good for single targets."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 66,
@@ -731,7 +976,13 @@
       "rarity": "Unique",
       "description": "A sturdy whip made from thick, thorn-laden vines capable of poisoning anything it touches. Be careful not to scratch yourself!",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "wide",
+      "speedClass": "fast",
+      "notes": "Whip with extended reach. Fast and wide \u2014 strong pick."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 67,
@@ -744,7 +995,13 @@
       "rarity": "Unique",
       "description": "Whirlwind, forged during an epic windstorm, is a double-bladed axe that levitates slightly.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "very_wide",
+      "speedClass": "slow",
+      "notes": "Double axe variant. Massive spin attack, excellent mob clearing."
+    },
+    "powerTier": "S"
   },
   {
     "cardNumber": 68,
@@ -757,7 +1014,13 @@
       "rarity": "Unique",
       "description": "Legend says that this cursed spear is plagued by a soul that controls the mind of any who wield it.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "medium",
+      "speedClass": "fast",
+      "notes": "Spear with good reach and speed."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 69,
@@ -770,7 +1033,12 @@
       "rarity": "Unique",
       "description": "The Bubble Burster creates a chain effect of bubble trouble for your enemies.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_strong",
+      "notes": "Short range but hits through enemies."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 70,
@@ -783,14 +1051,24 @@
       "rarity": "Unique",
       "description": "Why harpoon one enemy when you can harpoon many!",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_strong",
+      "notes": "Strong crossbow with extra damage."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 71,
     "name": "Web Bow",
     "barcodeData": "b1180000",
     "category": "ranged_weapon",
-    "series": "2"
+    "series": "2",
+    "arcadeGameplay": {
+      "arrowPattern": "single_slow",
+      "notes": "Arrows slow/trap enemies in webs."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 72,
@@ -803,7 +1081,12 @@
       "rarity": "Unique",
       "description": "The Bonebow is the pride of [[MCD:Pumpkin Pastures",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "multi",
+      "notes": "Growing arrows that split on hit."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 73,
@@ -816,7 +1099,12 @@
       "rarity": "Unique",
       "description": "Named the Purple Storm after its lovely hue, this legendary bow packs a powerful punch.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "multi_spread",
+      "notes": "Fires multiple bolts in a spread."
+    },
+    "powerTier": "S"
   },
   {
     "cardNumber": 74,
@@ -829,7 +1117,12 @@
       "rarity": "Unique",
       "description": "This crossbow, crafted in a forge rich with souls, thrives when an abundance of souls are nearby.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_soul",
+      "notes": "Gathers souls on hit."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 75,
@@ -842,7 +1135,8 @@
       "rarity": "Unique",
       "description": "Enchanted enemies are especially vulnerable to the magic of these crossbows.",
       "isUnique": true
-    }
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 76,
@@ -854,7 +1148,8 @@
       "weaponType": "Artifact",
       "rarity": "Common<br>Rare",
       "description": "The Eye of the Guardian holds a power that awakens in the hands of a worthy hero."
-    }
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 77,
@@ -866,7 +1161,12 @@
       "weaponType": "Armor",
       "rarity": "Common<br>Rare",
       "description": "It was easy to make this jet-black armor look cool. The hard part was securing the ink sacs."
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "medium",
+      "notes": "Medium armor with underwater themes."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 78,
@@ -879,7 +1179,12 @@
       "rarity": "Unique",
       "description": "Those who hunt elusive glow squids wear this armor to blend in with their beautiful prey.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "medium",
+      "notes": "Medium armor. Attracts enemies (tank role)."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 79,
@@ -892,7 +1197,12 @@
       "rarity": "Unique",
       "description": "This armor is made from the dense (but surprisingly light) shells of turtles who lived at crushing depths.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "medium",
+      "notes": "Medium armor with speed boost."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 80,
@@ -905,14 +1215,24 @@
       "rarity": "Unique",
       "description": "Archer's Armor, favored by humble warriors, is cheap to make and still stops a blade.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "light",
+      "notes": "Light armor with ranged damage boost."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 81,
     "name": "Ghost Kingler",
     "barcodeData": "b21i0000",
     "category": "armor",
-    "series": "2"
+    "series": "2",
+    "arcadeGameplay": {
+      "defenseClass": "medium",
+      "notes": "Medium armor with soul gathering."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 82,
@@ -924,7 +1244,12 @@
       "weaponType": "Armor",
       "rarity": "Common<br>Rare",
       "description": "This armor, crafted from the bones of [[MCD:Phantom"
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "medium",
+      "notes": "Medium armor with soul speed."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 83,
@@ -1042,14 +1367,14 @@
     "cardNumber": 99,
     "name": "The Kelptomaniac (Hero)",
     "barcodeData": "c01A1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3"
   },
   {
     "cardNumber": 100,
     "name": "Explorer (Hero)",
     "barcodeData": "c01B1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "armor",
@@ -1061,7 +1386,7 @@
     "cardNumber": 101,
     "name": "Valorie (Hero)",
     "barcodeData": "c01C1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Skin"
@@ -1071,7 +1396,7 @@
     "cardNumber": 102,
     "name": "Strider Warrior (Hero)",
     "barcodeData": "c01D1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1082,7 +1407,7 @@
     "cardNumber": 103,
     "name": "Darian (Hero)",
     "barcodeData": "c01E1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Skin"
@@ -1092,7 +1417,7 @@
     "cardNumber": 104,
     "name": "Loge (Hero)",
     "barcodeData": "c01F1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1103,7 +1428,7 @@
     "cardNumber": 105,
     "name": "Skelly (Hero)",
     "barcodeData": "c01G1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1114,7 +1439,7 @@
     "cardNumber": 106,
     "name": "Wargen (Hero)",
     "barcodeData": "c01H1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Skin"
@@ -1124,7 +1449,7 @@
     "cardNumber": 107,
     "name": "Annika (Hero)",
     "barcodeData": "c01I1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1135,7 +1460,7 @@
     "cardNumber": 108,
     "name": "Dani (Hero)",
     "barcodeData": "c01J1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Skin"
@@ -1145,7 +1470,7 @@
     "cardNumber": 109,
     "name": "Frosty (Hero)",
     "barcodeData": "c01K1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1156,7 +1481,7 @@
     "cardNumber": 110,
     "name": "Sven (Hero)",
     "barcodeData": "c01L1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Skin"
@@ -1166,7 +1491,7 @@
     "cardNumber": 111,
     "name": "Nuru (Hero)",
     "barcodeData": "c01M1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1177,14 +1502,14 @@
     "cardNumber": 112,
     "name": "Ivy (Hero)",
     "barcodeData": "c01N1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3"
   },
   {
     "cardNumber": 113,
     "name": "Corrupted Defender (Hero)",
     "barcodeData": "c01O1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1195,7 +1520,7 @@
     "cardNumber": 114,
     "name": "Void Voyager (Hero)",
     "barcodeData": "c01P1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1206,7 +1531,7 @@
     "cardNumber": 115,
     "name": "Qamar (Hero)",
     "barcodeData": "c01Q1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1217,7 +1542,7 @@
     "cardNumber": 116,
     "name": "Sam (Hero)",
     "barcodeData": "c01R1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Skin"
@@ -1227,14 +1552,14 @@
     "cardNumber": 117,
     "name": "The Monumental (Hero)",
     "barcodeData": "c01S1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3"
   },
   {
     "cardNumber": 118,
     "name": "Eshe (Hero)",
     "barcodeData": "c01T1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "3",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1252,7 +1577,13 @@
       "rarity": "unique",
       "description": "A disturbing aura surrounds this knife, as if it has existed for all time and will outlive us all.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "very_fast",
+      "notes": "Extremely fast daggers with soul gathering."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 120,
@@ -1265,7 +1596,13 @@
       "rarity": "Unique",
       "description": "The Bee Stinger, a swift blade inspired by a bee's barb, can draw friendly bees into the fray to fight alongside you.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "very_fast",
+      "notes": "Rapier \u2014 very fast thrusts."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 121,
@@ -1278,7 +1615,13 @@
       "rarity": "Unique",
       "description": "Expertly crafted and a polished weapon of war, the Highland Axe also makes a daring backscratcher.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "medium",
+      "speedClass": "medium",
+      "notes": "Solid axe with stun chance."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 122,
@@ -1291,7 +1634,13 @@
       "rarity": "Unique",
       "description": "Diamond is one of the most durable materials, making it an excellent choice for a pickaxe.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "aoeSize": "small",
+      "speedClass": "fast",
+      "notes": "Fast pickaxe with extra emeralds from mobs."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 123,
@@ -1304,7 +1653,12 @@
       "rarity": "Unique",
       "description": "This candy-colored bow has a surprising bitter bite.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "rapid",
+      "notes": "Very fast firing shortbow."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 124,
@@ -1317,7 +1671,12 @@
       "rarity": "Unique",
       "description": "The Slayer Crossbow is the treasured heirloom of many legendary hunters.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_strong",
+      "notes": "Strong single shots with extra damage to bosses."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 125,
@@ -1330,7 +1689,12 @@
       "rarity": "Unique",
       "description": "The secret of the Elite Power Bow's construction has been lost without a trace.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_strong",
+      "notes": "Maximum damage per shot. Charged shots."
+    },
+    "powerTier": "B"
   },
   {
     "cardNumber": 126,
@@ -1343,7 +1707,12 @@
       "rarity": "Unique",
       "description": "The arrows that take flight from the Phantom Bow swoop down on your enemies like the bow\u2019s [[MCD:Phantom",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "arrowPattern": "single_soul",
+      "notes": "Arrows pass through enemies and gather souls."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 127,
@@ -1356,7 +1725,12 @@
       "rarity": "Unique",
       "description": "When you wear this cloak, the sounds of screams fill the air. But are the screams yours, or your enemies'?",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "heavy",
+      "notes": "Heavy armor that heals on eating."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 128,
@@ -1369,7 +1743,12 @@
       "rarity": "Unique",
       "description": "Wither Armor, crafted with the parts of slain enemies, was made to terrify the wearer's enemies.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "very_heavy",
+      "notes": "Maximum protection with life steal. Top tier tank."
+    },
+    "powerTier": "S"
   },
   {
     "cardNumber": 129,
@@ -1382,7 +1761,12 @@
       "rarity": "Unique",
       "description": "The wolf who strikes from the shadows lives to tell the tale.",
       "isUnique": true
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "heavy",
+      "notes": "Heavy armor with wolf ally boost."
+    },
+    "powerTier": "A"
   },
   {
     "cardNumber": 130,
@@ -1394,7 +1778,12 @@
       "weaponType": "Armor",
       "rarity": "Common/Rare",
       "description": "Potent magical runes are weaved into the fabric of these robes, their origins and powers are shrouded in mystery."
-    }
+    },
+    "arcadeGameplay": {
+      "defenseClass": "light",
+      "notes": "Light robe with artifact damage boost."
+    },
+    "powerTier": "C"
   },
   {
     "cardNumber": 131,
@@ -1449,7 +1838,7 @@
     "cardNumber": 138,
     "name": "Llama (Hero)",
     "barcodeData": "d02d1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "4",
     "consoleStats": {
       "damage": "70",
@@ -1461,21 +1850,21 @@
     "cardNumber": 139,
     "name": "Mayeso (Hero)",
     "barcodeData": "d02e1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "4"
   },
   {
     "cardNumber": 140,
     "name": "Pake (Hero)",
     "barcodeData": "d02f1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "4"
   },
   {
     "cardNumber": 141,
     "name": "Annika (Hero)",
     "barcodeData": "d02g1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "4",
     "consoleStats": {
       "weaponType": "Hero",
@@ -1486,14 +1875,14 @@
     "cardNumber": 142,
     "name": "The Archeologist (Hero)",
     "barcodeData": "d02h1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "4"
   },
   {
     "cardNumber": 143,
     "name": "Fuego (Hero)",
     "barcodeData": "d02i1000",
-    "category": "melee_weapon",
+    "category": "hero",
     "series": "4",
     "consoleStats": {
       "weaponType": "Skin"
